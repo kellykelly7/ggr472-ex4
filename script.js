@@ -44,7 +44,7 @@ map.on('load', () => {
 
     map.addSource('buildings-data', {
         type: 'geojson',
-        data:'https://github.com/kellykelly7/ggr472-ex4/blob/main/buildings.geojson'
+        data:'https://kellykelly7.github.io/ggr472-ex4/buildings.geojson'
     });
 
     map.addLayer ({
